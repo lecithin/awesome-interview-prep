@@ -37,6 +37,8 @@ Collection of tech interview prep resources
 
 ### Algorithm Review
 
+* [Interview Cake](https://www.interviewcake.com/) - Glossary list, coding interview tips and a full (paid) course to prepare for algorithmic coding interviews.
+
 * [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) - "Introductory computer science algorithms, including searching, sorting, recursion, and graph theory."
 
 ### Design Pattern Review
